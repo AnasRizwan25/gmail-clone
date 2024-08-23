@@ -27,8 +27,8 @@
 }
 .side-nav .side-nav-pic1{
   background-color: rgb(194, 231, 255);
-  padding: 15px;
-  width: 24px;
+  padding: 14px;
+  width: 23px;
   border-radius: 14px;
 }
 .side-nav-pic2{
@@ -73,9 +73,9 @@
     flex-direction: column;
     position: absolute;
     left: 0;
-    width: 35px;
+    width: 28px;
     gap: 5px;
-    top: 45px;
+    top: 44px;
   }
   .side-nav1{
     display: flex;
@@ -94,7 +94,7 @@
   }
   .side-nav .side-nav-pic1{
     background-color: rgb(194, 231, 255);
-    width: 12px;
+    width: 10px;
     padding: 6px;
     border-radius: 8px;
   }
