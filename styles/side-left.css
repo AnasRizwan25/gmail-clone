@@ -53,7 +53,7 @@
 .star-logo{
   margin-top: -11px;
 }
-@media screen and (max-width:700px)  {
+@media (min-width:401px) and (max-width:700px)  {
   .side-nav{
     display: flex;
     align-items: center;
@@ -69,11 +69,11 @@
     width: 10px;
     cursor: pointer;
   }
-  .side-nav-pic1{
+  .side-nav .side-nav-pic1{
     background-color: rgb(194, 231, 255);
+    width: 16px;
     padding: 6px;
-    width: 20px;
-    border-radius: 6px;
+    border-radius: 8px;
   }
   .side-nav-pic2{
     background-color: rgb(213, 230, 252);
@@ -120,7 +120,7 @@
     flex-direction: column;
     position: absolute;
     left: 0;
-    width: 25px;
+    width: 26px;
     gap: 3px;
     top: 35px;
   }
@@ -128,10 +128,10 @@
     width: 8px;
     cursor: pointer;
   }
-  .side-nav-pic1{
+ .side-nav .side-nav-pic1{
     background-color: rgb(194, 231, 255);
     padding: 6px;
-    width: 20px;
+    width: 10px;
     border-radius: 6px;
   }
   .side-nav-pic2{
