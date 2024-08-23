@@ -9,6 +9,18 @@
   gap: 12px;
   top: 70px;
 }
+.side-nav1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: absolute;
+  left: 0;
+  width: 68px;
+  gap: 12px;
+  height: 100%;
+  top: 70px;
+}
 .side-nav img{
   width: 18.5px;
   cursor: pointer;
@@ -65,13 +77,24 @@
     gap: 5px;
     top: 45px;
   }
+  .side-nav1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    left: 0;
+    width: 35px;
+    gap: 5px;
+    top: 45px;
+  }
   .side-nav img{
     width: 10px;
     cursor: pointer;
   }
   .side-nav .side-nav-pic1{
     background-color: rgb(194, 231, 255);
-    width: 16px;
+    width: 12px;
     padding: 6px;
     border-radius: 8px;
   }
@@ -114,6 +137,17 @@
 }
 @media screen and (max-width:400px)  {
   .side-nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    left: 0;
+    width: 26px;
+    gap: 3px;
+    top: 35px;
+  }
+  .side-nav1{
     display: flex;
     align-items: center;
     justify-content: center;
