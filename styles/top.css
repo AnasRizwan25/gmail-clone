@@ -12,6 +12,7 @@ header{
   align-items: center;
   justify-content: space-between;
   padding: 10px 12px;
+  padding-left: 1px;
 }
 header div{
   display: flex;
@@ -23,7 +24,7 @@ header div{
 }
 .top-middle{
   border-radius: 50px;
-  width: 600px;
+  width: 650px;
   height: 45px;
   padding: 0px 15px;
   display: flex;
