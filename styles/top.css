@@ -155,7 +155,7 @@ header{
     border: none;
     width: 100%;
     background-color: rgb(234, 241, 251);
-    padding-left: 5px;
+    padding-left: 4px;
   }
   .input-style:focus{
     outline: none;
