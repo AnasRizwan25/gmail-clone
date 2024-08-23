@@ -72,7 +72,7 @@ header{
   padding: 10px 8px;
 }
 .pic1{
-  width: 18px;
+  width: 17.5px;
   padding: 0;
   padding-right: 10px;
 }
@@ -83,7 +83,7 @@ header{
   border-radius: 50px;
   width: 300px;
   height: 35px;
-  padding: 0px 10px;
+  padding: 0px 6.5px;
   display: flex;
   justify-content: space-between;
   background-color: rgb(234, 241, 251);
@@ -124,20 +124,21 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 5px 5px;
+    padding: 5px;
   }
   .pic1{
-    width: 15px;
+    width: 14px;
     padding: 0;
     padding-right: 6px;
   }
   .pic11{
     width: 50px;
+    padding-left: 2px;
   }
   .top-middle{
     border-radius: 50px;
     width: 310px;
-    height: 26px;
+    height: 25.5px;
     margin: 0px 10px;
     display: flex;
     justify-content: space-between;
@@ -150,7 +151,7 @@ header{
     width: 10px;
   }
   .input-style{
-    height: 26px;
+    height: 25.5px;
     border: none;
     width: 100%;
     background-color: rgb(234, 241, 251);
